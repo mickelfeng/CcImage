@@ -48,3 +48,11 @@ Edge：
 
 Shot
 =============
+
+
+[<img src="https://github.com/thomashuang/CcImage/blob/master/shot/shot-1.png?raw=true">](shot/shot-1.png)
+[<img src="https://github.com/thomashuang/CcImage/blob/master/shot/shot-2.png?raw=true">](shot/shot-2.png)
+[<img src="https://github.com/thomashuang/CcImage/blob/master/shot/shot-3.png?raw=true">](shot/shot-3.png)
+[<img src="https://github.com/thomashuang/CcImage/blob/master/shot/shot-4.png?raw=true">](shot/shot-4.png)
+[<img src="https://github.com/thomashuang/CcImage/blob/master/shot/shot-5.png?raw=true">](shot/shot-5.png)
+
