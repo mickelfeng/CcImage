@@ -12,7 +12,7 @@ Release/
 功能
 ======
 
-## Color：
+### Color：
 
 
 * binary
@@ -21,7 +21,7 @@ Release/
 * gray
 
 
-## Morph：
+### Morph：
 
 
 * Erode
@@ -34,7 +34,7 @@ Release/
 
 
 
-## Filter：
+### Filter：
 
 
 * Average
@@ -42,7 +42,7 @@ Release/
 * MeduimiamBlur
 
 
-## Edge：
+### Edge：
 
 
 * Canny
