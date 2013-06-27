@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CcImage", "CcImage\CcImage.vcxproj", "{BF9EDF97-25AD-47F7-8255-C42D49559AA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF9EDF97-25AD-47F7-8255-C42D49559AA8}.Debug|Win32.ActiveCfg = Release|Win32
+		{BF9EDF97-25AD-47F7-8255-C42D49559AA8}.Debug|Win32.Build.0 = Release|Win32
+		{BF9EDF97-25AD-47F7-8255-C42D49559AA8}.Release|Win32.ActiveCfg = Release|Win32
+		{BF9EDF97-25AD-47F7-8255-C42D49559AA8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
