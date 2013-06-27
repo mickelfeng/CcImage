@@ -8,8 +8,43 @@ CcImage
 ======
 
 Color：
+------------
 
 * binary
 * otsu
 * invert
 * gray
+
+
+Morph：
+------------
+
+* Erode
+* Dilate
+* Closing
+* Opening
+* Gardient
+* Grabcut
+* Wateres
+
+
+
+Filter：
+------------
+
+* Average
+* GuassianBulr
+* MeduimiamBlur
+
+
+Edge：
+------------
+
+* Canny
+* Sobel
+* Laplace
+* Corerns
+
+
+Shot
+=============
