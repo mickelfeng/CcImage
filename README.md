@@ -12,8 +12,8 @@ Release/
 功能
 ======
 
-Color：
-------------
+## Color：
+
 
 * binary
 * otsu
@@ -21,8 +21,8 @@ Color：
 * gray
 
 
-Morph：
-------------
+## Morph：
+
 
 * Erode
 * Dilate
@@ -34,16 +34,16 @@ Morph：
 
 
 
-Filter：
-------------
+## Filter：
+
 
 * Average
 * GuassianBulr
 * MeduimiamBlur
 
 
-Edge：
-------------
+## Edge：
+
 
 * Canny
 * Sobel
