@@ -9,7 +9,7 @@ CcImage
 
 Color：
 
-*binary
-*otsu
-*invert
-*gray
+* binary
+* otsu
+* invert
+* gray
